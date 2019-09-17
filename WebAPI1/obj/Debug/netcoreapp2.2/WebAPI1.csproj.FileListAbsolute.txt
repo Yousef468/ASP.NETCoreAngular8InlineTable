@@ -1,0 +1,14 @@
+C:\Users\Avina\source\repos\WebAPI1\WebAPI1\bin\Debug\netcoreapp2.2\WebAPI1.deps.json
+C:\Users\Avina\source\repos\WebAPI1\WebAPI1\bin\Debug\netcoreapp2.2\WebAPI1.runtimeconfig.json
+C:\Users\Avina\source\repos\WebAPI1\WebAPI1\bin\Debug\netcoreapp2.2\WebAPI1.runtimeconfig.dev.json
+C:\Users\Avina\source\repos\WebAPI1\WebAPI1\bin\Debug\netcoreapp2.2\WebAPI1.dll
+C:\Users\Avina\source\repos\WebAPI1\WebAPI1\bin\Debug\netcoreapp2.2\WebAPI1.pdb
+C:\Users\Avina\source\repos\WebAPI1\WebAPI1\obj\Debug\netcoreapp2.2\WebAPI1.csprojAssemblyReference.cache
+C:\Users\Avina\source\repos\WebAPI1\WebAPI1\obj\Debug\netcoreapp2.2\WebAPI1.csproj.CoreCompileInputs.cache
+C:\Users\Avina\source\repos\WebAPI1\WebAPI1\obj\Debug\netcoreapp2.2\WebAPI1.RazorAssemblyInfo.cache
+C:\Users\Avina\source\repos\WebAPI1\WebAPI1\obj\Debug\netcoreapp2.2\WebAPI1.RazorAssemblyInfo.cs
+C:\Users\Avina\source\repos\WebAPI1\WebAPI1\obj\Debug\netcoreapp2.2\WebAPI1.AssemblyInfoInputs.cache
+C:\Users\Avina\source\repos\WebAPI1\WebAPI1\obj\Debug\netcoreapp2.2\WebAPI1.AssemblyInfo.cs
+C:\Users\Avina\source\repos\WebAPI1\WebAPI1\obj\Debug\netcoreapp2.2\WebAPI1.RazorTargetAssemblyInfo.cache
+C:\Users\Avina\source\repos\WebAPI1\WebAPI1\obj\Debug\netcoreapp2.2\WebAPI1.dll
+C:\Users\Avina\source\repos\WebAPI1\WebAPI1\obj\Debug\netcoreapp2.2\WebAPI1.pdb
